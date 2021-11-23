@@ -10,6 +10,7 @@ export default function Login() {
     return(
         <div>
             <form className="form">
+            <img alt="login" src="https://cdn-icons-png.flaticon.com/512/147/147144.png" />
                 <div className="usuario">
                     <input type="text" name="usuario" placeholder="Nome do Usuário"></input>
                 </div>
